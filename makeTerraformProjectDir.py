@@ -68,6 +68,7 @@ mgmt_vpc = os.path.join("mgmt","vpc","main.tf","output.tf","variables.tf")
 #Create mgmt vpc directory & Terraform standard files
 os.makedirs(mgmt_vpc)
 
+#Define 
 
 
 
