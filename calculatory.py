@@ -1,7 +1,7 @@
 x = input("What's x?")
 y = input("What's y?")
 
-#Convert the retrun value into an int that use the + operator
+#Convert the return value into an int that use the + operator
 # z = x + y will concatenate the two str to give an incorrect value
 z = int(x) + int(y)
 
