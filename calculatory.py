@@ -13,3 +13,8 @@ y = int(input("What's y?"))
 
 print(x + y)
 
+#We can support float numbers numbers with decimal points by calling float on our input
+x = float(input("What's x?"))
+y = float(input("What's y?"))
+
+print(x + y)
